@@ -119,6 +119,7 @@ RegisterNumber:  23005675
 
 
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
+
 D FlipFlop
 
 ![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/39407968-c019-4d7e-89d2-c27bdaf47b86)
