@@ -119,6 +119,13 @@ RegisterNumber:  23005675
 
 
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
+D FlipFlop
+
+![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/39407968-c019-4d7e-89d2-c27bdaf47b86)
+
+T FlipFlop
+
+![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/e66a0005-3358-4520-8167-a715935349cc)
 
 SR Filp-Flop
 
@@ -130,6 +137,16 @@ JKFilp-Flop
 
 RTL LOGIC FOR FLIPFLOPS:
 
+D FlipFlop
+
+![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/1747f280-51f6-43cd-be08-1aacdc3fe827)
+
+
+T FlipFlop
+
+ ![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/da3664b2-e99a-4f73-a1f9-a5b7532e7543)
+
+
 SR Flip-Folp
 
 ![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/ae29d2e3-264e-4396-962f-8279e4cf6bc8)
@@ -138,7 +155,16 @@ JK Flip-Flop
 
 ![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/38acf912-99cb-4df0-bc13-dbf2fb3c27e3)
 
-### TIMING DIGRAMS FOR FLIP FLOPS 
+### TIMING DIGRAMS FOR FLIP FLOPS
+
+D FlipFlop
+
+![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/bf31793b-8e8f-44b6-86f4-bc4bb76d1ea0)
+
+T FlipFlop
+
+![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/3fd0e655-9e1c-45f3-9bc3-785746bb8360)
+
 
 SR Flip-Folp
 
@@ -151,4 +177,5 @@ JK Flip-Flop
 
 ### RESULTS 
 
-By this we have verified the truth table of JK and SR using verilog
+Thus, the program for flipflops is implemented and its functional table is successfully verified in
+quartus using Verilog programming.
