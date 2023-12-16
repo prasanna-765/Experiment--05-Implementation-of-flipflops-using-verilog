@@ -102,39 +102,50 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
+Step:1 Open Quartus II and select new project and choose the file location.
+Step:2 Module Declaration. Module should have the file name.
+Step:3 Declare Inputs and outputs.
+Step:4 Use assign declaration and wire to define the functionality of logic circuits.
+Step:5 End the program with endmodule.
+Step:6 Run the program and choose RTL viewer to get RTL realization.
 
 
 
 ### PROGRAM 
-/*
+Developed by: Prasanna A
+RegisterNumber:  23005675
++
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
 
+SR Filp-Flop
 
+![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/d120970b-d9de-4b2d-aa73-70b47dccdb6b)
 
+JKFilp-Flop
 
+![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/3c5b29d4-73ad-47ae-9745-4e848361503e)
 
+RTL LOGIC FOR FLIPFLOPS:
 
-### RTL LOGIC FOR FLIPFLOPS 
+SR Flip-Folp
 
+![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/ae29d2e3-264e-4396-962f-8279e4cf6bc8)
 
+JK Flip-Flop
 
-
-
-
-
-
+![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/38acf912-99cb-4df0-bc13-dbf2fb3c27e3)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+SR Flip-Folp
+
+![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/ab65cc57-fd0a-4a82-8a34-26c3ddd0ef7c)
 
 
+JK Flip-Flop
 
-
-
-
+![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/fb7470eb-6283-499f-90fa-5902c07e13c6)
 
 ### RESULTS 
+
+By this we have verified the truth table of JK and SR using verilog
