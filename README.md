@@ -153,27 +153,20 @@ SR Flip-Folp
 ![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/ae29d2e3-264e-4396-962f-8279e4cf6bc8)
 
 JK Flip-Flop
-
 ![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/38acf912-99cb-4df0-bc13-dbf2fb3c27e3)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS
 
 D FlipFlop
-
 ![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/bf31793b-8e8f-44b6-86f4-bc4bb76d1ea0)
 
 T FlipFlop
-
 ![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/3fd0e655-9e1c-45f3-9bc3-785746bb8360)
 
-
 SR Flip-Folp
-
 ![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/ab65cc57-fd0a-4a82-8a34-26c3ddd0ef7c)
 
-
 JK Flip-Flop
-
 ![image](https://github.com/prasanna-765/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150009505/fb7470eb-6283-499f-90fa-5902c07e13c6)
 
 ### RESULTS 
